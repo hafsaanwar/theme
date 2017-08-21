@@ -1,0 +1,272 @@
+
+
+body{
+    font-family: "Work sans", "Helvetica";
+}
+p{
+    color: #6c6f73;
+}
+h1{
+    color: #ffffff;
+}
+header{
+    background-image: url(../img/startup-0.svg),url(../img/startup-1.jpg);
+    max-width: 100%;
+    max-height: 100%;
+}
+/*start nav section*/
+.navbar-nav{
+    padding: 40px 50px 0px 0px;
+}
+.navbar-nav li a{
+     color: #ffffff;
+     font-weight: bold;
+}
+.navbar-nav li a:hover{
+    background: transparent;
+}
+.btn-info{
+    color: #2E6DA5;
+   background: #ffffff;
+   border-radius: 5px;
+   width: 45px;
+   height: 47px;
+   margin: 34px 0px 0px 50px;
+   font-size: 16px;
+   font-weight: bold;
+   padding-top: 10px;
+}
+/*end nav section*/
+
+/*start main-header*/
+.main{
+    padding-left: 50px;
+}
+.main h1{
+    padding-top: 100px;
+}
+.main p{
+    color: #BCCDD8;
+    width: 510px;
+    font-size: 21px
+}
+.btn-primary{
+    width: 190px;
+    height: 50px;
+    font-size: 18px;
+    background: #2595FF;
+    border: none;
+    font-weight: bold;
+    margin-bottom: 250px;
+     padding-top: 10px;
+}
+/*end main-header*/
+
+/*start main section-area*/
+
+/*start information section*/
+.left-pic{
+    margin-top: 100px;
+}
+.information-top{
+    margin-top: 300px;
+
+}
+.information-top h1{
+    color: #333;
+    font-size: 36px;
+}
+.information-top p{
+    color: #6c6f73;
+    font-size: 18px;
+}
+.text-buttom p{
+    color: #6c6f73;
+    font-size: 15px;
+    
+}
+.information-buttom h1{
+    color: #2d3238;
+    font-size: 18px;
+}
+.btn-success{
+        background: #ffffff;
+    height: 45px;
+    width: 230px;
+    border-radius: 5px;
+      color: #6c6f73;
+  font-weight: bold;
+   padding-top: 10px;
+}
+/*end information section*/
+
+/*start development section*/
+.development-area{
+    background-color: #262F36;
+}
+.development-text{
+    margin: 200px 115px 200px 120px;
+}
+.development-text h1{
+    color: #ffffff;
+    font-size: 28px;
+
+}
+.development-text p{
+    color: #B4B7B8;
+    font-size: 18px;
+
+}
+.development-pic img{
+    margin-top: 90px;
+     max-width: 100%;
+}
+/*end development section*/
+
+/*quote-section start*/
+.quote-section{
+    background: url(../img/startup-3.jpg) no-repeat;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.quote{
+    margin: 200px 135px 157px 780px;
+    max-width: 32%;
+}
+.quote h1{
+    font-size: 28px;
+
+}
+.quote p{
+    font-size: 15px;
+}
+/*quote-section end*/
+
+/*partners area start*/
+.partners-area{
+    background-color: #2595FF;
+}
+.partners-img img{
+    display: inline-block;
+    padding: 50px 15px;
+     max-width: 100%;
+}
+/*partners area end*/
+
+/*machine-area start*/
+.machine-top{
+    margin: 100px 0px;
+}
+.machine-text p{
+    font-weight: bold;
+}
+
+.machine-text h1{
+    color: black !important;
+    font-size: 28px;
+}
+.machine--main{
+    margin-top: 80px;
+}
+.protfolio{
+    padding: 23px;
+}
+.protfolio img{
+    margin-left: 20%;
+     max-width: 100%;
+}
+.protfolio p span{
+    font-weight: bold;
+}
+/*machine-area end*/
+
+/*pricing section start*/
+.pricing-section{
+    background: #F4F5F6;
+    padding: 100px 0;
+}
+.pricing-area{
+    margin-top: 40px;
+}
+.pricing-top{
+    margin: auto;
+     color: #929497;
+}
+.pricing-top sup{
+    font-size: 15px;
+}
+.pricing-top em{
+    font-size: 15px;
+    
+}
+.pricing-top p{
+    font-size: 50px;
+}
+.pricing-top h6{
+    color: #929497;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.pricing-area{
+    width: 334px;
+}
+.pricing-area ul{
+padding: 0;
+}
+.pricing-area ul li{
+    text-decoration: none;
+    border-bottom: .5px solid #CBDEF1;
+    list-style: none;
+    color: #929497;
+    padding: 25px 0px;
+}
+.btn-default{
+    background: #007CF1;
+    height: 44px;
+    width: 334px;
+    border-radius: 5px;
+    color: white;
+   margin-top: 20px;
+    padding-top: 10px;
+}
+
+/*pricing section end*/
+
+/*start footer section*/
+footer{
+       background-color: #262F36;
+     padding: 100px 0px 150px;
+}
+.left-area h6{
+    color: #ffffff;
+    font-weight: bold;
+     font-size: 15px;
+}
+.left-area h6 a{
+      color: #ffffff;
+      font-size: 13px;
+}
+.right-area ul li{
+    text-decoration: none;
+    list-style: none;
+    color: #929497;
+
+}
+.right-area ul li:first-child{
+      color: #ffffff;
+    font-weight: bold;
+    font-size: 15px;
+}
+/*end footer section*/
+
+
+
+
+
+
+
+
+
+
